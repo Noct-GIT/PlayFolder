@@ -12,7 +12,9 @@ Default order is setup to sort things the way a human would. Like episode 01 bef
 I hope this will be useful to someone other than myself <3
 
 
+## To Install
 
+In the releases section of github (usually on the right side) download the 1.0 release. It will be a zip file with everything needed to run it. Just place it wherever on your PC you want to store and run it from. Then extract it. Then you seem to be able to run it either by running LWSplayer.exe or player.exe, im not sure what the difference is or why theres two, seems to be a quirk of how I packaged it. So use either one.
 
 
 |
