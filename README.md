@@ -3,7 +3,7 @@ Plays a folder full of files with one unified tracking bar distinguished by vari
 
 ![Screenshot](screenshot.png)
 
-In this preview image you can see the player playing Season 01 of Adventure Time with all of the episodes at the bottom, each as its own unique color on the tracking bar.
+In this preview image you can see the player playing Season 01 of Adventure Time with all of the episodes at the bottom, each as its own unique color on the tracking bar. In the bottom right corner you see the total progress played out of the whole folder. In the bottom left you see the total progress played on the current file.
 
 I added a shuffle button incase you are playing music or something with a non specific order and you don't want the same order each time.
 
